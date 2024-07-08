@@ -1,0 +1,60 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.form input[type="text"] {
+  padding: 10px;
+  width: 300px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  outline: none;
+}
+
+.btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.message {
+  font-size: 1.2rem;
+  margin-top: 20px;
+  color: #dc3545;
+}
+
+.attendance-list {
+  list-style-type: none;
+  padding: 0;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.attendance-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  font-size: 1rem;
+}
