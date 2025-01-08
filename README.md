@@ -21,7 +21,7 @@ Before running the application, ensure you have the following installed:
 - Flask (Python package)
 - dlib (Python package, requires CMake and Visual Studio Build Tools on Windows)
 - face_recognition (Python package)
-- MongoDB (optional, for storing face encodings)
+- MongoDB (for storing face encodings)
 
 ## Installation
 
